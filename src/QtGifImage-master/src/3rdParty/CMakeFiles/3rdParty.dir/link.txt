@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib3rdParty.a CMakeFiles/3rdParty.dir/3rdParty_autogen/mocs_compilation.cpp.o CMakeFiles/3rdParty.dir/giflib/egif_lib.c.o CMakeFiles/3rdParty.dir/giflib/gif_font.c.o CMakeFiles/3rdParty.dir/giflib/gifalloc.c.o CMakeFiles/3rdParty.dir/giflib/gif_hash.c.o CMakeFiles/3rdParty.dir/giflib/dgif_lib.c.o CMakeFiles/3rdParty.dir/giflib/gif_err.c.o CMakeFiles/3rdParty.dir/giflib/quantize.c.o
+/usr/bin/ranlib lib3rdParty.a
