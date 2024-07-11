@@ -46,6 +46,11 @@ else
 	brew install --cask mactex-no-gui
 endif
 
+libs_install:
+ifeq ($(OS),Linux)
+	sudo apt-get install qt6-base-dev libglu1-mesa-dev freeglut3-dev mesa-common-dev
+endif
+
 dvi:
 	rm -rf *.aux
 	rm -rf *.dvi
