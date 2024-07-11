@@ -61,3 +61,7 @@ It makes "dist_3DViewer.tar.gz" file.
 ```
 make dvi
 ```
+If you have not installed "latex" command:
+```
+make latex_install
+```
