@@ -8,6 +8,7 @@ The program structure is made in accordance with the MVC design pattern and Goog
 - Ubuntu or MacOS operating system;
 - Qt version 6+ (e.g. qt-6-base-dev for Ubuntu);
 - OpenGL libraries;
+- Cmake for compiling;
 
 ## Basic properties:
 - The program is provide the ability to:
