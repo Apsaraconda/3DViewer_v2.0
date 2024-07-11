@@ -1,0 +1,110 @@
+{
+	"BUILD_DIR" : "/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer/QtGifImage-master/src/3rdParty/3rdParty_autogen",
+	"CMAKE_BINARY_DIR" : "/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer/QtGifImage-master/src/3rdParty",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer/QtGifImage-master/src/3rdParty",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer/QtGifImage-master/src/3rdParty/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer/QtGifImage-master/src/3rdParty/giflib/gif_hash.h",
+			"MU",
+			"KD2DBT4242/moc_gif_hash.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer/QtGifImage-master/src/3rdParty/3rdParty_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer/QtGifImage-master/src/3rdParty/3rdParty_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer/QtGifImage-master/src/3rdParty",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer/QtGifImage-master/src/3rdParty/3rdParty_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer/QtGifImage-master/src/3rdParty/CMakeFiles/3rdParty_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt6/libexec/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 2,
+	"SETTINGS_FILE" : "/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer/QtGifImage-master/src/3rdParty/CMakeFiles/3rdParty_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer/QtGifImage-master/src/3rdParty/giflib/dgif_lib.c",
+			"MU",
+			null
+		],
+		[
+			"/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer/QtGifImage-master/src/3rdParty/giflib/egif_lib.c",
+			"MU",
+			null
+		],
+		[
+			"/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer/QtGifImage-master/src/3rdParty/giflib/gif_err.c",
+			"MU",
+			null
+		],
+		[
+			"/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer/QtGifImage-master/src/3rdParty/giflib/gif_font.c",
+			"MU",
+			null
+		],
+		[
+			"/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer/QtGifImage-master/src/3rdParty/giflib/gif_hash.c",
+			"MU",
+			null
+		],
+		[
+			"/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer/QtGifImage-master/src/3rdParty/giflib/gifalloc.c",
+			"MU",
+			null
+		],
+		[
+			"/home/airat/Documents/21_school_projects/3D_Viewer_2_0/CPP4_3DViewer_v2.0-3-master/src/CMake/3D_Viewer/QtGifImage-master/src/3rdParty/giflib/quantize.c",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

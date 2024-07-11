@@ -62,3 +62,18 @@ clean:
 	rm -rf *.dvi
 	rm -rf *.log
 	rm -rf *.ini
+
+
+git_add:
+	git add *.tex
+	git add Makefile
+	git add src/CMakeLists.txt
+	git add src/*.cc
+	git add src/QtGifImage-master
+	git add src/model/*.cc
+	git add src/model/*.h
+	git add src/controller/*.cc
+	git add src/controller/*.h
+	git add src/view/*.cc
+	git add src/view/*.h
+	git add src/view/*.ui
