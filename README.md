@@ -4,7 +4,7 @@
 
 The program structure is made in accordance with the MVC design pattern and Google Style requirements.
 
-## Requiremets:
+## Requirements:
 - Ubuntu or MacOS operating system;
 - Qt version 6+ (e.g. qt-6-base-dev for Ubuntu);
 - OpenGL libraries;
