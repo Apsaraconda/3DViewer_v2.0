@@ -28,7 +28,7 @@ Use "make" command:
 ```
 make install
 ```
-The command installs the program to 3D_Viewer_v2.0 directory.
+The command installs the program to "3D_Viewer_v2.0" directory.
 
 (for Ubuntu) If your system does not have qt ver.6+ or OpenGL libraries installed:
 ```
