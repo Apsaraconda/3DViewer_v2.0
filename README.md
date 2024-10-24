@@ -4,6 +4,8 @@
 
 The program structure is made in accordance with the MVC design pattern and Google Style requirements.
 
+![](https://github.com/Apsaraconda/3DViewer_v2.0/blob/main/assets/preview.gif)
+
 ## Requirements:
 - Ubuntu or MacOS operating system;
 - Qt version 6+ (e.g. qt-6-base-dev for Ubuntu);
