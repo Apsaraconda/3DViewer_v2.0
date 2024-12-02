@@ -1,16 +1,16 @@
 # 3DViewer_v2.0
 
-3DViewer is a program for reading and visualizing .obj files.
+3DViewer is a program for reading and visualizing .obj files for Ubuntu or MacOS operating system.
 
 The program structure is made in accordance with the MVC design pattern and Google Style requirements.
 
 ![](https://github.com/Apsaraconda/3DViewer_v2.0/blob/main/assets/preview.gif)
 
-## Requirements:
+## Compilation requirements:
 - Ubuntu or MacOS operating system;
 - Qt version 6+ (e.g. qt-6-base-dev for Ubuntu);
 - OpenGL libraries;
-- Cmake for compiling;
+- Cmake;
 
 ## Basic properties:
 - The program is provide the ability to:
